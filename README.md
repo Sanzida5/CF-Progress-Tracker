@@ -156,6 +156,3 @@ While building this project, I practiced:
 
 **Sanzida Moin Tithi**
 
-or
-**Sanzida Moin Tithi*
-GitHub: [Sanzida5](https://github.com/Sanzida
