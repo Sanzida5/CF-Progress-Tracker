@@ -2,6 +2,8 @@
 
 A React.js web application that I built to track my Codeforces practice, solved problems, rating goal, weak topics, and weekly progress in one place.
 
+
+
 <img width="950" height="420" alt="image" src="https://github.com/user-attachments/assets/24c8637e-d08c-471b-9ee0-9e341c5426cb" />
 
 ## Live Demo
